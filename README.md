@@ -21,7 +21,7 @@ I'm a Computer Science student at the **University of North Carolina at Chapel H
 
 ## 🌟 Featured Projects
 
-### 🗺️ MapGenerator
+### 🗺️ WorldMapGenerator
 > A procedural map generation project built to create dynamic, unique game worlds.
 
 - 🔧 Generates maps algorithmically — no two maps are the same
