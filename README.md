@@ -60,7 +60,7 @@ I'm a developer who loves building games and interactive projects. I enjoy turni
 
 ## 🌟 Featured Projects
 
-### 🗺️ MapGenerator
+### 🗺️ WorldMapGenerator
 > A procedural map generation project built to create dynamic, unique game worlds.
 
 - 🔧 Generates maps algorithmically — no two maps are the same
