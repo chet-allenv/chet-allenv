@@ -49,10 +49,4 @@ I'm a Computer Science student at the **University of North Carolina at Chapel H
 
 ---
 
-## 📊 GitHub Stats
-
-![Chet's GitHub stats](https://github-readme-stats.vercel.app/api?username=chet-allenv&show_icons=true&theme=tokyonight)
-
----
-
 *Thanks for stopping by! Feel free to explore my repos.* 😃
