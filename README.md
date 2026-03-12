@@ -1,5 +1,4 @@
 # Hi there, I'm Chet Allen! 👋
-
 I'm a Computer Science student at the **University of North Carolina at Chapel Hill** with a passion for **game design** and **software development**. I love turning ideas into playable experiences — from Pokémon-style RPGs to procedural map generation tools. Whether I'm architecting game systems or building software projects, I'm always looking for creative ways to bring ideas to life.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chet-allen-v/)
@@ -21,9 +20,16 @@ I'm a Computer Science student at the **University of North Carolina at Chapel H
 
 ## 🌟 Featured Projects
 
+### 🏆 Draft Battle Game
+> A fantasy football-style drafting game where you build your roster and compete.
+- 🧠 Draft your team strategically and go head-to-head against opponents
+- 🏈 Combines the excitement of fantasy sports with competitive gameplay
+- 📌 [View Repository →](https://github.com/chet-allenv/DraftBattle)
+
+---
+
 ### 🗺️ WorldMapGenerator
 > A procedural map generation project built to create dynamic, unique game worlds.
-
 - 🔧 Generates maps algorithmically — no two maps are the same
 - 🎮 Designed with game development in mind
 - 📌 [View Repository →](https://github.com/chet-allenv/WorldMapGenerator)
@@ -32,7 +38,6 @@ I'm a Computer Science student at the **University of North Carolina at Chapel H
 
 ### ⚔️ Pokémon Project
 > A fan-made Pokémon-style game built from scratch in C#.
-
 - 🐾 Features Pokémon-inspired battle mechanics and gameplay
 - 💻 Built entirely in C# with a focus on game logic and structure
 - 📌 [View Repository →](https://github.com/chet-allenv/PokemonProject)
